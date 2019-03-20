@@ -3,7 +3,7 @@
 - [react_native_sqlite_storage_exercise説明](#react_native_sqlite_storage_exercise説明)
 - [how to use react_native_sqlite_storage_exercise](#how-to-use-react_native_sqlite_storage_exercise)
 
-## react_native_voice_exercise 설명
+## react_native_sqlite_storage_exercise 설명
 이 저장소(Reposity)는 RN(React Native)에서 sqlite를 사용하는 방법에 대한 예제입니다. sqlite를 다루기 위해 `react-native-sqlite-storage` 라이브러리를 사용합니다.
 
 - react-native-sqlite-storage 공식 홈페이지: [https://github.com/andpor/react-native-sqlite-storage](https://github.com/andpor/react-native-sqlite-storage)
